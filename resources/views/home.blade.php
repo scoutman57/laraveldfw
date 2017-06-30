@@ -67,11 +67,11 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="http://www.laraveldfw.com"><div class="laravel-logo"></div>Laravel DFW</a>
+                        <a class="navbar-brand" href="https://laraveldfw.com"><div class="laravel-logo"></div>Laravel DFW</a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
-                            <li><a href="http://www.meetup.com/laravel-dallas-fort-worth" target="_blank">Meetup Group</a></li>
+                            <li><a href="https://www.meetup.com/laravel-dallas-fort-worth" target="_blank">Meetup Group</a></li>
                             <li><a class="to-email-signup" href="#mc_embed_signup">Get Laravel DFW Updates</a></li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
@@ -208,7 +208,7 @@
         </div>
         <footer>
             <p class="pull-right back-to-top"><a class="back-to-top" href="#">Back to top</a></p>
-            <p class="text-center copyright">&copy; 2013 - {{ date("Y") }} <a href="http://www.laraveldfw.com">Laravel DFW</a> | <a href="http://www.meetup.com/laravel-dallas-fort-worth" target="_blank">Meetup Group</a></p>
+            <p class="text-center copyright">&copy; 2013 - {{ date("Y") }} <a href="https://laraveldfw.com">Laravel DFW</a> | <a href="http://www.meetup.com/laravel-dallas-fort-worth" target="_blank">Meetup Group</a></p>
         </footer>
     </div><!-- end .container -->
 
